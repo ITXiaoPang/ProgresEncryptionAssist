@@ -8,3 +8,6 @@ Put the ProgresEncryptionAssist.bat to the same path with xcode.exe and double c
 
 OS Support:
 Windows7
+
+Some Introduction:
+http://www.itxiaopang.com/progresencryptionassist/
