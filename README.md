@@ -10,4 +10,4 @@ OS Support:
 Windows7
 
 Some Introduction:
-http://www.itxiaopang.com/progresencryptionassist/
+http://www.ossky.org/progresencryptionassist/
